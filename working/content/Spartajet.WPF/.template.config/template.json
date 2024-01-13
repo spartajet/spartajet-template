@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Dr. Xiaozhong Guo",
+  "classifications": [ "Common", "WPF" ],
+  "identity": "Spartajet.WPFTemplate",
+  "name": "Spartajet WPF Template",
+  "shortName": "spartajet-wpf",
+  "sourceName":"Spartajet.WPF",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
